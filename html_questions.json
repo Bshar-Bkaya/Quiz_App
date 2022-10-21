@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Why we use <br> element",
+    "answer_1": "make text",
+    "answer_2": "make text italic",
+    "answer_3": "To add breakline",
+    "answer_4": "for fun",
+    "right_answer": "To add breakline"
+  },
+  {
+    "title": "Why we use <hr> element",
+    "answer_1": "make text",
+    "answer_2": "make text italic",
+    "answer_3": "To add breakline",
+    "answer_4": "for fun",
+    "right_answer": "To add horizontal line"
+  },
+  {
+    "title": "Why we use <B> element",
+    "answer_1": "make text bold",
+    "answer_2": "make text italic",
+    "answer_3": "To add breakline",
+    "answer_4": "for fun",
+    "right_answer": "make text bold"
+  },
+  {
+    "title": "Why we use <i> element",
+    "answer_1": "make text",
+    "answer_2": "make text italic",
+    "answer_3": "i",
+    "answer_4": "for fun",
+    "right_answer": "i"
+  },
+  {
+    "title": "Why we use <a> element",
+    "answer_1": "make text",
+    "answer_2": "make text italic",
+    "answer_3": "a",
+    "answer_4": "for fun",
+    "right_answer": "a"
+  }
+]
